@@ -19,3 +19,7 @@ Work flow
 4. Run Run_seabird_3types.R with that one forage fish
 5. Then run scenario runs for any of the figures and save those specific runs (code for saving)
 6. Repeat steps 3-5 with the other forage fish runs - save runs but still also have the runs saved for the previous forage fish and can plot both together
+
+
+NOTE - FIGURE 5 code requires running with different forage fish and jumping between both R code files depending on if you just want functional response sensitivity,
+life history sensitivity, or both - VERY MESSY
