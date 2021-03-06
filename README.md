@@ -17,8 +17,9 @@ Work flow
 2. This will save runs for both anchovy and sardine
 3. Load runs for one forage fish 
 4. Run Run_seabird_3types.R with that one forage fish
-5. Then run scenario runs for any of the figures and save those specific runs (code for saving)
+5. Then run scenario runs at the top of the script for any of the figures and save those specific runs (code for saving)
 6. Repeat steps 3-5 with the other forage fish runs - save runs but still also have the runs saved for the previous forage fish and can plot both together
+(Don't need to repeat if only one forage fish you want to run for but then figures won't work because rely on running for both different forage fish prey)
 
 
 NOTE - FIGURE 5 code requires running with different forage fish and jumping between both R code files depending on if you just want functional response sensitivity,
