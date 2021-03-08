@@ -1,9 +1,20 @@
+
 # Run the basic seabird model with a non-fished forage fish prey
+# will be called by other code to produce results/figures from Koehn et al. 2021
+# if wishing to run separately without other code need to load forage fish
+# model projections with non-fished prey
+
 library(here)
 setwd(here::here())
 
-#directory = "laurakoehn"
-#basedir_s <- paste("/Users/", directory, "/Dropbox/ff-mse2/Seabirds/", sep ="")
+## NOTE:
+# run this line of code if running this code on its own 
+# specify which forage fish you want
+# fishuse = "Anchovy"
+# load(file=paste(fishuse,1,"nofish",".RData",sep="_"))
+
+
+
 # Main universal parameters
 Nyear = 1000
 nsims = 100 # probably need 1000, trying 100 to test
