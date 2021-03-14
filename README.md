@@ -1,6 +1,8 @@
 # Seabird_ForageFish_model
 R Code to run models from Koehn et al. 2021 - A structured seabird population model reveals how alternative forage fish control rules benefit seabirds and fisheries. Ecological Applications
 
+Download zip file of code and save as a project directory.
+
 TO RUN SEABIRD RUNS WITH A FORAGE FISH PREY
 - First run forage fish code Run_ForageFishmodel_Siple_etal_2019.R for both Sardine and Anchovy - saves files to your project directory for each forage fish run under different control rules. Seabird model code for Koehn et al. 2021 will load and use these files.
 
