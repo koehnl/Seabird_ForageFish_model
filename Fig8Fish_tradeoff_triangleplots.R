@@ -4,7 +4,7 @@
 # probability of collapse across forge fish harvest control rules
 # for each index (catch, variance, prob collapse) scales ranking of each harvest
 # control rule between 0 and 3 (where 3 is "best" - most catch, low variance, low collapse prob.)
-
+setwd(here::here())
 library(matrixStats)
 
 foragefish =c("Anchovy", "Sardine")
