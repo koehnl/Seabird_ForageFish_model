@@ -20,7 +20,8 @@ Siple, M.C., Essington, T.E. and E. Plagányi, É., 2019. Forage fish fisheries 
 -Code to run seabird scenarios (restricted and flexible) with forage fish prey (either anchovy or sardine) fished under different harvest control rules - seabird-foragefish_fishingscenarios.R - is sourced by the code to run figures. To run separately, would need to load forage fish runs. 
 
 -Code to run and produce Figures 4-8 (Results figures) from Koehn et al. 2021. Including -Code to run seabird model with various forage fish harvest control rule scenarios (Fig 6) - labeled by figure 
-
+  - For Fig 5 code: Fig5_runcode_sensitivityanalysis.R produces results and figure by sourcing code: Scenario1_lifehistory.R and VaryFunctionalResponse2.R
+ 
 -Code to play with functional response shapes and create Figure 2 from Koehn et al. 2021 - functional_response&Fig2_AP.R
 
 Note:
