@@ -21,7 +21,7 @@ Siple, M.C., Essington, T.E. and E. Plagányi, É., 2019. Forage fish fisheries 
 
 -Code to run and produce Figures 4-8 (Results figures) from Koehn et al. 2021. Including -Code to run seabird model with various forage fish harvest control rule scenarios (Fig 6) - labeled by figure 
 
--Code to run code to play with functional response shapes and create Figure 2 from Koehn et al. 2021 - functional_response&Fig2_AP.R
+-Code to play with functional response shapes and create Figure 2 from Koehn et al. 2021 - functional_response&Fig2_AP.R
 
 Note:
 "Source" code that is sourced by other files to produce results are:
