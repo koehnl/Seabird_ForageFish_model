@@ -9,6 +9,7 @@ PLEASE READ COMMENTS AT THE TOP OF EACH R SCRIPT FILE
 This repository includes:
 
 -Forage fish model function and associated functions from or modified from Siple et al. 2019 (in folder "ForageFishModel"). And code to run this model for different forage fish - Run_ForageFishmodel_Siple_etal_2019.R
+
 Siple, M.C., Essington, T.E. and E. Plagányi, É., 2019. Forage fish fisheries management requires a tailored approach to balance trade‐offs. Fish and Fisheries, 20(1), pp.110-124.
   - saves forage fish model runs to be used in the seabird model. 
 
