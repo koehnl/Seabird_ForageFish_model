@@ -25,9 +25,13 @@ Siple, M.C., Essington, T.E. and E. Plagányi, É., 2019. Forage fish fisheries 
 
 Note:
 "Source" code that is sourced by other files to produce results are:
+
 -Files in "ForageFishModel" folder and "SeabirdModel_use" folder
+
 -Run_seabird_2lifehistory.R
+
 -seabird-foragefish_fishingscenarios.R
+
 (can by run separately but need to load fish runs to do so)
 
 
