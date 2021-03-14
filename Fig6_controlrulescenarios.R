@@ -11,7 +11,7 @@
 
 # NOTE: warnings are OK because some seabird model runs crash and produce
 # NAs in rbinom. Those runs are set to 0. 
-
+setwd(here::here())
 # loads forage fish runs and sources seabird model code for fishing scenarios
 library(matrixStats)
 
